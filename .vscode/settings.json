@@ -1,0 +1,13 @@
+{
+    // Python executable used by ESP-IDF tools (detected)
+    "idf.pythonInstallPath": "C:\\Espressif\\python_env\\idf5.5_py3.11_env\\Scripts\\python.exe",
+    // Explicitly point the extension to the esp-idf root we found
+    "idf.espIdfPath": "C:\\Espressif\\frameworks\\esp-idf-v5.5.1",
+    // The Python virtual environment used by the esp-idf installation
+    "idf.pythonEnvPath": "C:\\Espressif\\python_env\\idf5.5_py3.11_env\\Scripts\\python.exe",
+    // Add extra tool directories to extension extra path searching
+    "idf.customExtraPaths": [
+        "C:\\Espressif\\frameworks\\esp-idf-v5.5.1\\tools",
+        "C:\\Espressif\\python_env\\idf5.5_py3.11_env\\Scripts"
+    ]
+}

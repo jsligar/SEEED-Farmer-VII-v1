@@ -1,0 +1,19 @@
+Command: ninja all
+[0/1] Re-running CMake...
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/app_gate does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/board_hal_heltec_v3 does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/crypto does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/link_layer does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/mesh_routing does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/mesh_services does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/ota does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/proto does not contain a CMakeLists.txt file. No component will be added
+-- Component directory C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/components/web_ui does not contain a CMakeLists.txt file. No component will be added
+-- Minimal build - OFF
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32s3
+-- Configuring incomplete, errors occurred!
+FAILED: build.ninja 
+C:\Espressif\tools\cmake\3.30.2\bin\cmake.exe --regenerate-during-build -S"C:\Users\justi\OneDrive\Documents\PlatformIO\Projects\seeed famer VII\firmware" -B"C:\Users\justi\OneDrive\Documents\PlatformIO\Projects\seeed famer VII\firmware\build"

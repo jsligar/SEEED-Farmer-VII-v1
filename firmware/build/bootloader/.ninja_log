@@ -1,0 +1,239 @@
+# ninja log v6
+34	183	7807052604622877	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/util.c.obj	6fef49a662db0eb5
+25	216	7807052604520688	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj	7bd991ae917e54ed
+39	228	7807052604686167	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	68b40ea88df6e701
+20	235	7807052604500718	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	79c83d5ed7b585b3
+71	243	7807052605003045	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	e56cb41ebd0aee38
+49	249	7807052604786166	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	a9d0270299c71a5e
+15	261	7807052604361360	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj	9b1e6a86882a6f39
+44	267	7807052604736161	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	e5dd1fd7e59ba3f8
+54	297	7807052604844193	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	f88a8469fe06d0cf
+29	304	7807052604553740	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	6835808f04b351ce
+59	315	7807052604894200	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	10276ee20d03337
+82	348	7807052605117602	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	644ceb97eb3532cd
+229	364	7807052606587801	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	31e8a7e632e1ecca
+261	387	7807052606913856	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_writeback_esp32s3.S.obj	7f628559c69d68a8
+184	393	7807052606132660	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	3c6eb78ef9e0046a
+76	418	7807052605057332	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	ef4b508890433582
+222	440	7807052606507505	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	f9e3d84d9f6befbb
+236	460	7807052606651613	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_systimer.c.obj	fdd16bb7ead372b2
+243	506	7807052606732055	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_wdt.c.obj	cd1ee56ddb039800
+65	528	7807052604954200	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	3a6277752a21f42c
+268	560	7807052606980118	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	ae95c278b9b30e4e
+255	567	7807052606843875	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_esp32s2_esp32s3.c.obj	5a848b0416089447
+304	590	7807052607329067	esp-idf/log/liblog.a	c9de56bdea7fdbdb
+364	600	7807052607933969	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/cpu_region_protect.c.obj	b88f690b461dc73b
+348	614	7807052607783064	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	c75edd6f836eb81d
+315	622	7807052607446913	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_cpu_intr.c.obj	e610d2d563576330
+298	628	7807052607271361	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	79734eb45daee7a3
+393	756	7807052608232626	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk_init.c.obj	11c740080ba9a196
+507	769	7807052609363296	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/chip_info.c.obj	e38d5561227696c
+528	806	7807052609579109	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	35356658dde136b6
+440	846	7807052608690240	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_sleep.c.obj	4074485c4d0438f0
+567	872	7807052609970756	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_fields.c.obj	249a8d5980c107d5
+561	878	7807052609900432	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_table.c.obj	a23967ef68cbbc55
+460	940	7807052608888613	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_time.c.obj	c444f72bf2ffaa6
+418	959	7807052608471744	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_init.c.obj	900587eafc67db9f
+601	966	7807052610311693	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_rtc_calib.c.obj	5ff0657071c04c7
+629	981	7807052610586058	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	94419929fc57bc0b
+590	1040	7807052610198103	esp-idf/esp_rom/libesp_rom.a	50c200dd41346b25
+387	1051	7807052608162624	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk.c.obj	ab84f94e2b9a65b2
+615	1065	7807052610448763	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_utility.c.obj	8bb754979fc0133a
+622	1072	7807052610516080	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	bd523fd0e2301198
+878	1164	7807052613085609	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	bbd3c065618cd6b0
+872	1207	7807052613025617	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	8d1c3460036120d1
+941	1243	7807052613703026	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	a68342a9a056ec55
+959	1256	7807052613881318	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	81e2e0daa95f65c6
+981	1266	7807052614107870	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	29515ed5e8c539b2
+769	1275	7807052611994891	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj	26e8c0d65ef1486b
+756	1281	7807052611856789	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	be483ba3e8f3db04
+806	1306	7807052612351646	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	5d040291b64e7713
+1052	1318	7807052614805015	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32s3.c.obj	b6e67a1619ebf585
+1040	1328	7807052614707125	esp-idf/esp_common/libesp_common.a	15a43b2f85edda03
+846	1361	7807052612765920	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	4d74436baf59a57e
+966	1407	7807052613959091	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	73296482e94de691
+1072	1501	7807052615023491	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	ad9cad9e6e2bd1f6
+1243	1524	7807052616731986	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	d2947a8cbc2a0c9c
+1281	1531	7807052617100688	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	b398cdcdb042b18f
+1266	1574	7807052616959471	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	ba189a39a3c39c4
+1318	1584	7807052617474590	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	11cc60b171e75a25
+1164	1598	7807052615938765	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32s3.c.obj	6b56a4d1cac2cbb
+1361	1637	7807052617900956	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_soc.c.obj	78097dfb571f988
+1307	1690	7807052617356662	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	cd337b810b492523
+1328	1705	7807052617575003	esp-idf/esp_hw_support/libesp_hw_support.a	24e103022cbfc8d
+1275	1750	7807052617040428	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	822fb3864f13d768
+1066	1765	7807052614945628	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	d010132f32c232ae
+1524	1772	7807052619541147	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	fe6fb491b58804b
+1501	1801	7807052619302713	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	105770355ef2cd91
+1584	1839	7807052620135816	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	66587aa1f0c69097
+1574	1855	7807052620035805	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	22366a1a2b036372
+1531	1897	7807052619598857	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	61f18c0b48073563
+1598	1907	7807052620283115	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	cbbdc0eea4a7f90e
+1207	1925	7807052616365074	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	59f958381da29090
+1407	1931	7807052618356386	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_esp32s3.c.obj	a83b2848c46819ab
+1637	1966	7807052620670186	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/efuse_hal.c.obj	34c964d3506e718
+1705	1971	7807052621353553	esp-idf/esp_system/libesp_system.a	b987a76d7e3fc015
+1801	1982	7807052622302372	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	ec9e0a98b36e9779
+1773	1989	7807052622026183	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	6c5cefcbcc00fd98
+1256	1996	7807052616859469	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	8c914c6ef53b7ae9
+1839	2011	7807052622678899	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/interrupts.c.obj	4edcb59eefc27b7d
+1855	2046	7807052622855696	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gpio_periph.c.obj	64bcd1691e6e5461
+1931	2060	7807052623612236	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gdma_periph.c.obj	d284f7d9e7b687c1
+1691	2071	7807052621202663	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	c2ccd2db656dd34b
+1907	2079	7807052623353625	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/adc_periph.c.obj	7977239ef33846f4
+1898	2086	7807052623272610	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/uart_periph.c.obj	e68696011211d454
+1750	2093	7807052621787754	esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj	6a0d3848c51f3d98
+1925	2099	7807052623551998	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/dedic_gpio_periph.c.obj	55184d8843cdfee3
+2011	2138	7807052624409179	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdm_periph.c.obj	f17b328130953994
+1982	2168	7807052624127753	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/ledc_periph.c.obj	6fe68eb3a8172c65
+1989	2179	7807052624194059	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/pcnt_periph.c.obj	a9099f997526a622
+1966	2185	7807052623945905	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/spi_periph.c.obj	c54999773042d93b
+1996	2195	7807052624254357	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rmt_periph.c.obj	990aa4f8f7499573
+1972	2222	7807052624007151	esp-idf/efuse/libefuse.a	6f9a49221a6adf4c
+2086	2233	7807052625161145	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/lcd_periph.c.obj	7c0783615d94d0fe
+2046	2239	7807052624747266	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2s_periph.c.obj	63d7be4da36b9823
+2060	2255	7807052624905290	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2c_periph.c.obj	9bb45766fd0a1388
+2071	2266	7807052625003070	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/temperature_sensor_periph.c.obj	1ed23c296533f342
+2079	2276	7807052625083406	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/timer_periph.c.obj	c6c3051071f3229
+2094	2282	7807052625241454	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mcpwm_periph.c.obj	f44cac4d47ebd0c9
+2100	2293	7807052625299080	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mpi_periph.c.obj	8a8998bfb76b5605
+2169	2299	7807052625971674	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/touch_sensor_periph.c.obj	a5559381243caeee
+2179	2321	7807052626089642	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/twai_periph.c.obj	19e207f5c545bf5d
+2138	2322	7807052625675619	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdmmc_periph.c.obj	605ca0d4b5769ed8
+2195	2329	7807052626247254	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_dwc_periph.c.obj	cf1bf5edd7d9fc51
+2282	2345	7807052627652714	project_elf_src_esp32s3.c	fd9eb065bc3f613e
+2282	2345	7807052627652714	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/project_elf_src_esp32s3.c	fd9eb065bc3f613e
+2186	2351	7807052626158882	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/wdt_periph.c.obj	e09c1f237c46853
+2239	2361	7807052626693005	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/cam_periph.c.obj	9e0873c38c1fe40
+2255	2374	7807052626849236	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/power_supply_periph.c.obj	46d1db0fb1cf7015
+2266	2387	7807052626959236	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	5e8ffd6f4b094b03
+2233	2391	7807052626628044	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rtc_io_periph.c.obj	e11f8c67ccd24e84
+2345	2427	7807052627733039	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32s3.c.obj	14b337496e3b3ee1
+2276	2427	7807052627060579	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	6598e3c912bb9f34
+2222	2450	7807052626507616	esp-idf/bootloader_support/libbootloader_support.a	1e076d4fa3d82cc5
+2293	2456	7807052627218641	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	863d1497ceab1946
+2450	2535	7807052628780406	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	7eb6fdf46ea71c6b
+2535	2623	7807052629578059	esp-idf/spi_flash/libspi_flash.a	7b2e730b869c6cd3
+1765	2659	7807052621945835	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	dcf3d898e21d9c19
+2623	2727	7807052630472930	esp-idf/hal/libhal.a	544c9bc526926c94
+2727	2812	7807052631508569	esp-idf/micro-ecc/libmicro-ecc.a	41c4ce62c2d3285c
+2812	2958	7807052632307641	esp-idf/soc/libsoc.a	e90735f12249871d
+2958	3053	7807052633788909	esp-idf/xtensa/libxtensa.a	71f2f4adf4c0203e
+3053	3131	7807052634804053	esp-idf/main/libmain.a	149a07591d387e01
+3131	3349	7807052635602193	bootloader.elf	1211e15fd4ea52c1
+3349	3575	7807052639986628	.bin_timestamp	de4c89a0b986acbb
+3349	3575	7807052639986628	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/.bin_timestamp	de4c89a0b986acbb
+3575	3652	7807052640047578	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+3575	3652	7807052640047578	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807052733525324	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807052733525324	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	98	7807052791142662	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	98	7807052791142662	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+41	167	7807055621713015	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+41	167	7807055621713015	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	108	7807056086514160	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	108	7807056086514160	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	101	7807056168874341	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	101	7807056168874341	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	99	7807057412170266	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	99	7807057412170266	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	100	7807057608338154	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	100	7807057608338154	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807057687005778	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807057687005778	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807058924880312	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807058924880312	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	104	7807059107212752	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	104	7807059107212752	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	106	7807059273042834	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	106	7807059273042834	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	102	7807059482370874	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	102	7807059482370874	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807059564552256	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807059564552256	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	106	7807060056221390	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	106	7807060056221390	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	111	7807060230341566	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	111	7807060230341566	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807060264231815	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807060264231815	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	104	7807060499015023	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	104	7807060499015023	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+26	116	7807060569456594	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+26	116	7807060569456594	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	102	7807060772181039	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	102	7807060772181039	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	102	7807061061562844	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	102	7807061061562844	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	99	7807061304586053	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	99	7807061304586053	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	105	7807061649505320	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	105	7807061649505320	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	101	7807061832213206	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	101	7807061832213206	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	109	7807062198483223	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	109	7807062198483223	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+17	99	7807062375230897	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+17	99	7807062375230897	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	107	7807062841871071	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	107	7807062841871071	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	102	7807062971853052	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	102	7807062971853052	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+22	119	7807063149528568	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+22	119	7807063149528568	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807071708302720	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807071708302720	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807071840020438	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807071840020438	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	101	7807072032756261	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	101	7807072032756261	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	100	7807072207523294	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	100	7807072207523294	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	102	7807072995894044	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	102	7807072995894044	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807073153622166	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807073153622166	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807073180790775	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807073180790775	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	100	7807073473622349	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	100	7807073473622349	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	109	7807073658072747	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	109	7807073658072747	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	103	7807073701692211	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	103	7807073701692211	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807074172781584	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	102	7807074172781584	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	128	7807074199889130	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	128	7807074199889130	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	110	7807074742097625	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	110	7807074742097625	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	100	7807074860962278	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	100	7807074860962278	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	105	7807074943272794	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	105	7807074943272794	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	103	7807075119793004	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	103	7807075119793004	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	104	7807075589123436	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	104	7807075589123436	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	103	7807075640890972	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	103	7807075640890972	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	102	7807076167633293	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	102	7807076167633293	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	100	7807076346742097	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	100	7807076346742097	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807076849568036	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	101	7807076849568036	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	104	7807077021400870	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+20	104	7807077021400870	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+24	114	7807136393823649	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+24	114	7807136393823649	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807137325130878	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807137325130878	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807137504470760	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	103	7807137504470760	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	107	7807137653271177	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+21	107	7807137653271177	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	105	7807137858445240	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+19	105	7807137858445240	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	97	7807138033734867	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
+18	97	7807138033734867	C:/Users/justi/OneDrive/Documents/PlatformIO/Projects/seeed famer VII/firmware/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	771c4cf5059f1961
